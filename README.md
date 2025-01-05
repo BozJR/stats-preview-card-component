@@ -1,6 +1,6 @@
-# Frontend Mentor - Stats preview card component solution
+# Stats preview card component
 
-This is My solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is My solution to the a Stats preview card component (could be a useful add to the bottom of a webpage). 
 
 
 ## Table of contents
@@ -38,5 +38,5 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@BozJR](https://www.frontendmentor.io/profile/BozJR)
+- GitHub Profile - https://github.com/BozJR?tab=repositories
 
